@@ -1,0 +1,19 @@
+{
+    "name": "com.company.tool.Editor.Tests",
+    "references": [
+        "com.company.tool",
+        "com.company.tool.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

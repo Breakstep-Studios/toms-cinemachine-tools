@@ -1,0 +1,16 @@
+{
+    "name": "com.company.tool",
+    "version": "1.0.0",
+    "displayName": "Tool Name",
+    "description": "Description of tool here.",
+    "unity": "2018.4",
+    "keywords": ["words","that","describe", "tool"],
+    "dependencies": {
+        "com.unity.textmeshpro": "1.4.1"
+    },
+    "author": {
+        "name": "Your Name",
+        "email": "email@gmail.com",
+        "url": "https://yourwebsite.com"
+    }
+}
