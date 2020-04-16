@@ -1,7 +1,7 @@
 {
-    "name": "com.company.tool.Editor",
+    "name": "com.thomasbrown.tomscinemachinetools.Editor",
     "references": [
-        "com.company.tool"
+        "com.thomasbrown.tomscinemachinetools"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [

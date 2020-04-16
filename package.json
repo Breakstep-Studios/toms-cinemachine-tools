@@ -1,16 +1,16 @@
 {
-    "name": "com.company.tool",
+    "name": "com.thomasbrown.tomscinemachinetools",
     "version": "1.0.0",
-    "displayName": "Tool Name",
-    "description": "Description of tool here.",
+    "displayName": "Toms Cinemachine Tools",
+    "description": "A collection of tools for use with Unity's Cinemachine.",
     "unity": "2018.4",
-    "keywords": ["words","that","describe", "tool"],
+    "keywords": ["library","tools","utility","cinemachine"],
     "dependencies": {
-        "com.unity.textmeshpro": "1.4.1"
+        "com.unity.cinemachine": "2.5.0"
     },
     "author": {
-        "name": "Your Name",
-        "email": "email@gmail.com",
-        "url": "https://yourwebsite.com"
+        "name": "Thomas Brown",
+        "email": "thsbrown1@gmail.com",
+        "url": "https://twitter.com/meatloaf1024"
     }
 }

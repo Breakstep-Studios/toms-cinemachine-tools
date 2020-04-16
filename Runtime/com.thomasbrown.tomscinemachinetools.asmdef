@@ -1,9 +1,7 @@
 {
-    "name": "com.company.tool",
+    "name": "com.thomasbrown.tomscinemachinetools",
     "references": [
-        "DOTweenPro.Scripts",
-        "DOTween.Modules",
-        "Unity.TextMeshPro"
+        "Cinemachine"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],

@@ -1,15 +1,12 @@
 {
-    "name": "com.company.tool.Editor.Tests",
+    "name": "com.thomasbrown.tomscinemachinetools.Tests",
     "references": [
-        "com.company.tool",
-        "com.company.tool.Editor"
+        "com.thomasbrown.tomscinemachinetools"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
