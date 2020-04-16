@@ -1,2 +1,2 @@
-# Unity Package Template
-Template that can be used to create a custom unity package 
+# Toms Cinemachine Tools
+A collection of tools for use with Unity's Cinemachine  
